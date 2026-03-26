@@ -50,10 +50,9 @@ A VS Code extension providing instant AI-powered code explanations with multiple
 
 ## 💡 What I'm Working On
 
+- Learning more about Embedded systems and tinkering with hardware
 - Building AI-powered developer tools
 - macOS automation and UI frameworks
-- Exploring Model Context Protocol (MCP) implementations
-- Creating intuitive developer experiences
 
 ## 📫 Let's Connect
 
